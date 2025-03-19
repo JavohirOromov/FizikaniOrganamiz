@@ -37,6 +37,7 @@ class PagerFragment: Fragment(R.layout.fragment_pager) {
         binding.pager.registerOnPageChangeCallback(object: ViewPager2.OnPageChangeCallback(){
             override fun onPageSelected(position: Int) {
                 super.onPageSelected(position)
+
                 binding.next.text = if (position == 2) "Davom etish" else "Keyingi"
                 binding.liner.isGone = position == 0
                 binding.next1.isGone = position != 0
