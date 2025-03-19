@@ -1,3 +1,4 @@
+package com.example.fizikaniorganamiz.app
 import android.app.Application
 /**
  * Creator: Javohir Oromov
