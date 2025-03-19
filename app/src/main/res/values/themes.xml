@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FizikaniOrganamiz" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+<!--        <item name="android:statusBarColor">#BD3131</item>-->
+<!--        <item name="android:windowLightStatusBar">false</item> &lt;!&ndash; Qora ikonlar &ndash;&gt;-->
+    </style>
+
+    <style name="Theme.FizikaniOrganamiz" parent="Base.Theme.FizikaniOrganamiz" />
+</resources>
