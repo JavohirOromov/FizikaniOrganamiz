@@ -5,22 +5,32 @@
     android:layout_height="match_parent"
     android:background="@color/black">
 
-    <ImageView
-        android:id="@+id/bar"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:background="@color/black"
+
+    <TextView
+        android:id="@+id/inventor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nikola Tesla"
+        android:textSize="24sp"
+        android:textColor="#B3FFFFFF"
+        android:fontFamily="@font/font1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/inventorImage"
+        android:layout_marginTop="40dp"
         />
+
     <ImageView
         android:id="@+id/back"
         android:layout_width="36dp"
         android:layout_height="36dp"
         android:src="@drawable/back"
         app:tint="@color/white"
-        app:layout_constraintTop_toBottomOf="@id/bar"
+       app:layout_constraintTop_toTopOf="@id/inventor"
+        app:layout_constraintBottom_toBottomOf="@id/inventor"
         app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_margin="16dp"
+        android:layout_marginStart="16dp"
         android:background="?android:selectableItemBackgroundBorderless"
         />
 
@@ -28,8 +38,9 @@
         android:id="@+id/inventorImage"
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        app:layout_constraintTop_toBottomOf="@id/bar"
+        app:layout_constraintTop_toBottomOf="@id/inventor"
         android:src="@drawable/tesla_img"
+        android:layout_marginTop="20dp"
         />
     <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
@@ -51,17 +62,6 @@
                 android:layout_marginTop="24dp"
                 >
                 <TextView
-                    android:id="@+id/inventor"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Nikola Tesla"
-                    android:textSize="24sp"
-                    android:textColor="#B3FFFFFF"
-                    android:fontFamily="@font/font1"
-                    android:layout_marginStart="30dp"
-                    android:layout_marginBottom="12dp"
-                    />
-                <TextView
                     android:id="@+id/inventorAbout"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -74,5 +74,4 @@
             </LinearLayout>
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
-
 </androidx.constraintlayout.widget.ConstraintLayout>
