@@ -1,5 +1,7 @@
 [versions]
 agp = "8.8.0"
+androidxNavigationFragmentKtx = "2.7.5"
+androidxNavigationUiKtx = "2.7.5"
 circleimageview = "3.1.0"
 dotsindicator = "5.1.0"
 fragmentKtx = "1.8.6"
@@ -19,12 +21,16 @@ navigationUiKtxVersion = "2.7.6"
 viewbindingpropertydelegate = "1.5.9"
 navigationFragmentKtx = "2.8.9"
 navigationUiKtx = "2.8.9"
+roomKtx = "2.6.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 androidx-fragment-ktx = { module = "androidx.fragment:fragment-ktx", version.ref = "fragmentKtx" }
 androidx-lifecycle-extensions = { module = "androidx.lifecycle:lifecycle-extensions", version.ref = "lifecycleExtensions" }
+androidx-navigation-fragment-ktx-v275 = { module = "androidx.navigation:navigation-fragment-ktx", version.ref = "androidxNavigationFragmentKtx" }
 androidx-navigation-fragment-ktx-v276 = { module = "androidx.navigation:navigation-fragment-ktx", version.ref = "navigationFragmentKtxVersion" }
+androidx-navigation-safe-args-gradle-plugin = { module = "androidx.navigation:navigation-safe-args-gradle-plugin", version.ref = "navigationFragmentKtx" }
+androidx-navigation-ui-ktx-v275 = { module = "androidx.navigation:navigation-ui-ktx", version.ref = "androidxNavigationUiKtx" }
 androidx-navigation-ui-ktx-v276 = { module = "androidx.navigation:navigation-ui-ktx", version.ref = "navigationUiKtxVersion" }
 circleimageview = { module = "de.hdodenhof:circleimageview", version.ref = "circleimageview" }
 dotsindicator = { module = "com.tbuonomo:dotsindicator", version.ref = "dotsindicator" }
@@ -39,6 +45,7 @@ androidx-constraintlayout = { group = "androidx.constraintlayout", name = "const
 viewbindingpropertydelegate = { module = "com.github.kirich1409:viewbindingpropertydelegate", version.ref = "viewbindingpropertydelegate" }
 androidx-navigation-fragment-ktx = { group = "androidx.navigation", name = "navigation-fragment-ktx", version.ref = "navigationFragmentKtx" }
 androidx-navigation-ui-ktx = { group = "androidx.navigation", name = "navigation-ui-ktx", version.ref = "navigationUiKtx" }
+androidx-room-ktx = { group = "androidx.room", name = "room-ktx", version.ref = "roomKtx" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }

@@ -13,6 +13,12 @@ import com.example.fizikaniorganamiz.databinding.ItemInventorBinding
  */
 class InventorAdapter: ListAdapter<InventorData,InventorAdapter.InventorVH>(InventorDU) {
 
+    private var itemClickListener: ((Int) -> Unit)? = null
+
+    fun setItemClickListener(itemClickListener: (Int) -> Unit){
+        this.itemClickListener = itemClickListener
+    }
+
     inner class InventorVH(private val binding: ItemInventorBinding): RecyclerView.ViewHolder(binding.root){
 
         fun bind(data: InventorData){
@@ -21,6 +27,12 @@ class InventorAdapter: ListAdapter<InventorData,InventorAdapter.InventorVH>(Inve
             binding.inventorAbut.text = data.about
             binding.itemBg.setBackgroundResource(data.bgItem)
             binding.bgBtn.setBackgroundResource(data.bgButton)
+        }
+
+        init {
+            binding.itemInventor.setOnClickListener {
+                itemClickListener?.invoke(getItem(adapterPosition).id)
+            }
         }
     }
     object InventorDU: DiffUtil.ItemCallback<InventorData>() {

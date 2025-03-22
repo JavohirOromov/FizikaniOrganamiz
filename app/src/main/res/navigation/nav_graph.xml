@@ -12,7 +12,12 @@
             android:id="@+id/action_splashFragment_to_pagerFragment"
             app:destination="@id/pagerFragment"
             app:popUpTo="@id/splashFragment"
-            app:popUpToInclusive="true" />
+            app:popUpToInclusive="true"
+            app:enterAnim="@anim/right_to_left"
+            app:exitAnim="@anim/fade_out"
+            app:popEnterAnim="@anim/left_to_right"
+            app:popExitAnim="@anim/fade_out"
+            />
     </fragment>
     <fragment
         android:id="@+id/pagerFragment"
@@ -20,10 +25,73 @@
         android:label="PagerFragment" >
         <action
             android:id="@+id/action_pagerFragment_to_mainFragment"
-            app:destination="@id/mainFragment" />
+            app:destination="@id/mainFragment"
+            app:enterAnim="@anim/right_to_left"
+            app:exitAnim="@anim/fade_out"
+            app:popEnterAnim="@anim/left_to_right"
+            app:popExitAnim="@anim/fade_out"
+            />
     </fragment>
+
+
     <fragment
         android:id="@+id/mainFragment"
         android:name="com.example.fizikaniorganamiz.screens.main.MainFragment"
-        android:label="MainFragment" />
+        android:label="MainFragment" >
+        <action
+            android:id="@+id/action_mainFragment_to_detailFragment"
+            app:destination="@id/detailFragment"
+            app:enterAnim="@anim/right_to_left"
+            app:exitAnim="@anim/fade_out"
+            app:popEnterAnim="@anim/left_to_right"
+            app:popExitAnim="@anim/fade_out"
+            />
+        <action
+            android:id="@+id/action_mainFragment_to_articleDetailFragment"
+            app:destination="@id/articleDetailFragment"
+            app:enterAnim="@anim/right_to_left"
+            app:exitAnim="@anim/fade_out"
+            app:popEnterAnim="@anim/left_to_right"
+            app:popExitAnim="@anim/fade_out"
+            />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.example.fizikaniorganamiz.screens.detail.DetailFragment"
+        android:label="DetailFragment" >
+        <action
+            android:id="@+id/action_detailFragment_to_mainFragment"
+            app:destination="@id/mainFragment"
+            app:enterAnim="@anim/right_to_left"
+            app:exitAnim="@anim/fade_out"
+            app:popEnterAnim="@anim/left_to_right"
+            app:popExitAnim="@anim/fade_out"
+            />
+        <argument
+            android:name="position"
+            app:argType="integer"
+            android:defaultValue="0" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/articleDetailFragment"
+        android:name="com.example.fizikaniorganamiz.screens.detailArticle.ArticleDetailFragment"
+        android:label="ArticleDetailFragment" >
+        <action
+            android:id="@+id/action_articleDetailFragment_to_mainFragment"
+            app:destination="@id/mainFragment"
+            app:enterAnim="@anim/right_to_left"
+            app:exitAnim="@anim/fade_out"
+            app:popEnterAnim="@anim/left_to_right"
+            app:popExitAnim="@anim/fade_out"
+            />
+        <argument
+            android:name="position"
+            app:argType="integer"
+            android:defaultValue="0" />
+    </fragment>
+
+
 </navigation>

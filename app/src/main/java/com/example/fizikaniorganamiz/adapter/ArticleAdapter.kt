@@ -12,12 +12,26 @@ import com.example.fizikaniorganamiz.databinding.ItemArticleBinding
  * Javohir's MacBook Air
  */
 class ArticleAdapter:ListAdapter<ArticleData, ArticleAdapter.ArticleVH>(ArticleDU) {
+
+    private var itemClickListener: ((Int) -> Unit)? = null
+
+    fun setItemClickListener(itemClickListener: (Int) -> Unit){
+        this.itemClickListener = itemClickListener
+    }
+
     inner class ArticleVH(private val binding: ItemArticleBinding): RecyclerView.ViewHolder(binding.root){
+
 
         fun bind(data: ArticleData){
             binding.image.setImageResource(data.image)
             binding.articleTopic.text = data.topic
             binding.article.text = data.article
+        }
+
+        init {
+            binding.itemArticle.setOnClickListener {
+                itemClickListener?.invoke(adapterPosition)
+            }
         }
     }
     object ArticleDU: DiffUtil.ItemCallback<ArticleData>() {

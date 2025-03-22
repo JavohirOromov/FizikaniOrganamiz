@@ -1,3 +1,502 @@
 <resources>
     <string name="app_name">Fizikani O\'rganamiz</string>
+    <string name="textTesla"> \t\t<b>Tug‘ilishi va bolalik yillari</b> \nNikola Tesla 1856-yil 10-iyulda Avstriya imperiyasining (hozirgi Xorvatiya) Smiljan qishlog‘ida tug‘ilgan. Uning otasi Milutin Tesla pravoslav ruhoniysi, onasi Georgina Tesla esa o‘zining ijodkorligi bilan tanilgan uy bekasi bo‘lgan. Teslaning onasi texnikaga qiziqqan va turli mexanik qurilmalarni yasash bilan shug‘ullangan. Bu Tesla hayotiga katta ta’sir qilgan.\n
+        \n\t\t<b>Ta’limi va ilk ishlari</b> \nTesla Grazdagi Texnologiya universitetida tahsil olgan, lekin o‘qishini tugatmagan. Keyinchalik u Pragada ham qisqa muddat o‘qigan. Tesla dastlab Budapeshtda telefon kompaniyasida ishlagan va u yerda o‘zining elektr muhandisligi bo‘yicha bilimlarini oshirgan. 1882-yilda u Parijdagi Continental Edison Company ga ishga kirgan va bu yerda elektr muhandis sifatida faoliyat yuritgan. Tesla elektr tizimlarini takomillashtirish bo‘yicha bir nechta g‘oyalar ishlab chiqdi. 1884-yilda Tesla AQShga hijrat qiladi va Tomas Edison bilan ishlashni boshlaydi. Biroq, Edison bilan kelishmovchiliklar sababli u qisqa vaqt ichida mustaqil ish boshlashga qaror qiladi. Tesla va o‘zgaruvchan tok tizimi 1887-yilda Tesla o‘zining Tesla Electric Company kompaniyasini tashkil qildi va o‘zgaruvchan tok (AC) tizimi ustida ishlay boshladi. O‘sha paytda Edison doimiy tok (DC) tizimini targ‘ib qilayotgan edi. Tesla George Westinghouse bilan hamkorlik qilib, o‘zgaruvchan tok tizimini ommalashtirishga katta hissa qo‘shdi. Bu Edison bilan bo‘lgan Toklar urushi (War of Currents) ning asosiy qismi edi. 1893-yilda Chikagodagi Jahon ko‘rgazmasida Tesla va Westinghouse kompaniyasi o‘zgaruvchan tok tizimi ning ustunligini namoyish qilishdi. Bu tizim keyinchalik Niagara sharsharasi gidroelektr stansiyasida ham ishlatildi.
+        \n\n\t\t<b>Tesla ixtirolari va yutuqlari</b> \nTesla turli sohalarda muhim kashfiyotlar qilgan: \n1.O‘zgaruvchan tok tizimi – bugungi kunda elektr energiyasi uzatilishining asosiy usuli. \n2.Tesla transformatori – yuqori chastotali elektr toki generatori. \n3.Simsiz energiya uzatish g‘oyasi – Tesla Wireless Power loyihasini ilgari surgan. \n4.Masofadan boshqarish – Tesla 1898-yilda radio to‘lqinlar yordamida masofadan boshqariladigan model kemani namoyish qilgan. \n5.X-ray nurlari – Tesla rentgen nurlarining imkoniyatlarini o‘rgangan. \n6.Tesla lasani (Tesla coil) – elektr va radio sohasida ishlatiladigan kuchli qurilma. \n7.Magnit maydon aylanishi – elektromagnit motorlarning ishlashiga asos bo‘lib xizmat qiladi.
+        \n\n\t\t<b>Tesla va ilmiy g‘oyalari</b> \nTesla 1900-yillarda Wardenclyffe Tower loyihasi ustida ishlagan. Bu loyiha butun dunyo bo‘ylab simlarsiz elektr energiyasini uzatish imkoniyatini yaratishga qaratilgan edi. Biroq, moliyaviy muammolar tufayli loyiha yakuniga yetmagan. Tesla, shuningdek, radio ixtirosi bo‘yicha ham ishlagan, lekin bu borada Guglielmo Markoni patent olishga muvaffaq bo‘lgan. Keyinchalik AQSh Oliy sudi Tesla patentlarini Markonining ixtirosidan ustun deb topdi. Tesla hayotining so‘nggi yillari va vafoti Tesla umrining so‘nggi yillarini Nyu-Yorkdagi New Yorker mehmonxonasida yolg‘iz o‘tkazgan. U moddiy jihatdan qiynalgan va ilmiy ishlari uchun yetarlicha mablag‘ topa olmagan. 1943-yil 7-yanvarda Tesla yurak xurujidan vafot etgan. Bugungi kunda uning nomi Tesla avtomobil kompaniyasi, fizikadagi magnit induksiya o‘lchov birligi (Tesla) va boshqa ko‘plab sohalarda yashab qolgan.
+        \n\n\t\t<b>Xulosa</b>  \nNikola Tesla insoniyat tarixidagi eng buyuk ixtirochilardan biri hisoblanadi. Uning o‘zgaruvchan tok tizimi, radio, simsiz energiya va elektromagnit qurilmalar bo‘yicha ishlari bugungi zamonaviy texnologiyalarning asosi bo‘lib xizmat qilmoqda. Tesla ilm-fanga bo‘lgan fidoiyligi bilan o‘z nomini tarixga muhrlagan buyuk daholardan biridir.</string>
+    <string name="textNyuton">
+\t\t<b>Tug‘ilishi va bolalik yillari</b>
+\nIsaak Nyuton 1643-yil 4-yanvarda Angliyaning Linkolnshir grafligidagi Vulstorp qishlog‘ida tug‘ilgan. U hali tug‘ilmasidan oldin otasidan ayrilgan. Onasi Hannah Ayskou Nyuton boshqa turmushga chiqqanida, uni buvisi tarbiyalagan. Nyuton bolaligidan tabiatga va mexanik qurilmalarga katta qiziqish bildirgan, u turli mexanik moslamalar yasash bilan shug‘ullangan.
+
+\n\n\t\t<b>Ta’limi va ilk ishlari</b>
+\nNyuton o‘rta ta’limni Grantham shahridagi King’s School maktabida olgan. 1661-yilda u Kembrij universitetining Triniti kollejiga o‘qishga kirgan. Nyuton bu yerda Evklid geometriyasi, astronomiya va fizika fanlarini o‘rgangan. 1665-yilda Londonda o‘lat epidemiyasi tarqalganida, u o‘qishni to‘xtatib, Vulstorpga qaytib ketgan. Ushbu davr Nyutonning ilmiy faoliyati uchun eng muhim yillardan biri bo‘ldi. U aynan shu yillarda gravitatsiya nazariyasi, differensial va integral hisob, shuningdek, yorug‘likning tarkibi haqida ilk g‘oyalarini ilgari surdi.
+
+\n\n\t\t<b>Nyuton ixtirolari va yutuqlari</b>
+\nNyuton ilm-fan sohasida muhim kashfiyotlar qilgan:
+\n1.Gravitatsiya qonuni – u olam tortishish qonunini ishlab chiqdi va sayyoralarning harakatiga ta’sir qiluvchi kuchlarni tushuntirdi.
+\n2.Harakat qonunlari – Nyuton uchta asosiy mexanika qonunini ishlab chiqdi, ular zamonaviy fizikaning asosiy tamoyillaridan biri hisoblanadi.
+\n3.Differensial va integral hisob – u matematikaning ushbu tarmoqlarini rivojlantirib, ko‘plab ilmiy hisob-kitoblarni osonlashtirdi.
+\n4.Yorug‘lik va optika – Nyuton yorug‘likning spektral tarkibini aniqlagan va yorug‘likning sinishi bo‘yicha tadqiqotlar olib borgan.
+\n5.Nyuton teleskopi – u aks ettiruvchi (reflektorl) teleskopni ishlab chiqdi va astronomiya sohasida katta o‘zgarishlar qildi.
+
+\n\n\t\t<b>Nyuton va ilmiy faoliyati</b>
+\nNyuton ilmiy faoliyatini davom ettirib, 1687-yilda o‘zining eng mashhur asari — "Matematik tamoyillar" (Philosophiæ Naturalis Principia Mathematica) ni nashr etdi. Bu asarda u klassik mexanika qonunlarini bayon qilgan va gravitatsiya nazariyasini asoslab bergan. 1696-yilda Nyuton London Mintining rahbari bo‘ldi va u yerda tangalarni isloh qilish bo‘yicha ish olib bordi. 1703-yilda u Qirollik jamiyati prezidenti etib saylandi va ilm-fanni rivojlantirishga katta hissa qo‘shdi.
+
+\n\n\t\t<b>Nyuton hayotining so‘nggi yillari va vafoti</b>
+\nNyuton umrining so‘nggi yillarida ilmiy faoliyatdan uzoqlashib, asosan falsafa va diniy mavzularga qiziqdi. U 1727-yil 31-martda 84 yoshida vafot etdi va Vestminster abbatligiga dafn qilindi. Bugungi kunda uning ismi Nyuton mexanikasi, tortishish kuchi va matematikaning ko‘plab sohalari bilan bog‘langan.
+
+\n\n\t\t<b>Xulosa</b>
+\nIsaak Nyuton insoniyat tarixidagi eng buyuk olimlardan biri hisoblanadi. Uning harakat qonunlari, gravitatsiya nazariyasi va optikaga qo‘shgan hissasi zamonaviy ilm-fanning asosini tashkil qiladi. Nyutonning ishi fizika va matematikaning rivojlanishiga katta ta’sir ko‘rsatdi va u tarixdagi eng buyuk ilmiy daholardan biri sifatida e’tirof etiladi.
+</string>
+
+
+    <string name="textEinstein">
+\t\t<b>Tug‘ilishi va bolalik yillari</b>
+\nAlbert Eynshteyn 1879-yil 14-martda Germaniyaning Ulm shahrida tug‘ilgan. Uning otasi Hermann Eynshteyn muhandis va tadbirkor, onasi Paulina Eynshteyn esa musiqa va adabiyotga qiziqqan. Bolaligida Eynshteyn sokin va o‘ziga xos fikrlovchi bola bo‘lib, maktabdagi an’anaviy ta’lim tizimiga moslasha olmagan. Biroq, u yoshligidan ilm-fanga qiziqib, o‘zicha matematik va fizik masalalarni yechishga harakat qilgan.
+
+\n\n\t\t<b>Ta’limi va ilk ishlari</b>
+\nEynshteyn 1896-yilda Shveysariyaning Syurix shahridagi Politexnika institutiga o‘qishga kirgan. U yerda fizika va matematika bo‘yicha chuqur bilim olgan. 1900-yilda universitetni tamomlagach, Shveysariya patent idorasida ishlay boshlagan. Aynan shu yillarda u o‘zining ilk nazariy ishlarini ishlab chiqdi.
+
+\n\n\t\t<b>Eynshteynning ixtirolari va yutuqlari</b>
+\nEynshteyn fizika sohasida inqilobiy kashfiyotlar qilgan:
+\n1.Maxsus nisbiylik nazariyasi (1905) – bu nazariya vaqt, makon va yorug‘lik tezligi o‘rtasidagi bog‘liqlikni tushuntiradi.
+\n2.E=mc² formulasi – energiya va massaning ekvivalentligini ifodalovchi mashhur tenglama.
+\n3.Fotoelektr effekt – yorug‘likning moddaga ta’sirini tushuntirib, kvant nazariyasining rivojlanishiga sabab bo‘lgan.
+\n4.Broun harakati – atomlarning mavjudligini isbotlovchi fizik hodisani ilmiy asoslab bergan.
+\n5.Umumiy nisbiylik nazariyasi (1915) – tortishish kuchining makon-zamon geometriyasi bilan bog‘liqligini tushuntiruvchi nazariya.
+
+\n\n\t\t<b>Eynshteyn va ilmiy faoliyati</b>
+\nEynshteyn 1915-yilda umumiy nisbiylik nazariyasini taqdim etdi va 1919-yilda Quyosh tutilishi vaqtida bu nazariya tajriba orqali tasdiqlandi. 1921-yilda u fotoelektr effektga qo‘shgan hissasi uchun Nobel mukofotiga sazovor bo‘ldi. 1933-yilda Eynshteyn AQShga hijrat qildi va u yerda Prinston universitetida ishladi. U Ikkinchi jahon urushi vaqtida yadro qurolining ishlab chiqilishiga sabab bo‘lgan, lekin keyinchalik tinchlik tarafdori sifatida yadroviy qurollarga qarshi chiqdi.
+
+\n\n\t\t<b>Eynshteyn hayotining so‘nggi yillari va vafoti</b>
+\nEynshteyn umrining oxirigacha fizika bo‘yicha tadqiqotlarini davom ettirdi. U 1955-yil 18-aprelda AQShning Prinston shahrida vafot etdi. Bugungi kunda uning ismi nisbiylik nazariyasi, kvant fizikasining rivojlanishi va zamonaviy fan bilan bog‘liq holda tilga olinadi.
+
+\n\n\t\t<b>Xulosa</b>
+\nAlbert Eynshteyn zamonaviy fizikaga ulkan hissa qo‘shgan buyuk olimlardan biridir. Uning nisbiylik nazariyasi, kvant fizikasi va fundamental ilmiy tamoyillarga qo‘shgan hissasi butun dunyo faniga ta’sir ko‘rsatdi. U insoniyat tarixidagi eng buyuk daholardan biri sifatida yodda qoladi.
+</string>
+
+
+    <string name="textFaraday">
+\t\t<b>Tug‘ilishi va bolalik yillari</b>
+\nMaykl Faradey 1791-yil 22-sentyabrda Angliyaning Nyuton shahrida kambag‘al oilada tug‘ilgan. Uning otasi temirchi bo‘lib, oilaning moddiy ahvoli yaxshi emas edi. Faradey bolaligida rasmiy ta’lim olmagan, ammo u kitoblarga qiziqib, o‘z-o‘zini o‘qitib ilm olgan. U yoshligida kitoblarni muqovalash ustaxonasida shogird bo‘lib ishlagan va shu orqali ilmiy kitoblarni o‘qish imkoniyatiga ega bo‘lgan. Aynan shu kitoblar uning ilm-fanga bo‘lgan qiziqishini oshirgan.
+
+\n\n\t\t<b>Ilmiy faoliyatining boshlanishi</b>
+\n1812-yilda Faradey mashhur olim Xemfri Deyvi ma’ruzalarida qatnashdi va unga o‘z yozuvlarini taqdim etdi. Deyvi bundan hayratlanib, Faradeyni o‘z laborantiga aylantirdi. Faradey tajribalar o‘tkazib, kimyo va fizika bo‘yicha chuqur bilimga ega bo‘ldi. U o‘z ustida ishlashni davom ettirib, tez orada muhim ilmiy kashfiyotlar qila boshladi.
+
+\n\n\t\t<b>Faradeyning ixtirolari va yutuqlari</b>
+\nFaradey elektr va magnitizm sohalarida inqilobiy kashfiyotlar qildi:
+\n1.Elektromagnit induksiya – elektr toki magnit maydon orqali hosil bo‘lishi mumkinligini kashf etdi.
+\n2.Faradey qonuni – elektromagnit induksiya jarayonini tushuntirib berdi.
+\n3.Elektr dvigatel – bugungi elektr motorlari uchun asos bo‘lib xizmat qilgan qurilmani yaratdi.
+\n4.Elektr maydoni tushunchasi – u elektr va magnit maydonlarning uzluksizligini ilmiy asoslab berdi.
+\n5.Elektroliz qonunlari – kimyoviy jarayonlar va elektr tokining o‘zaro bog‘liqligini aniqladi.
+\n6.Benzolni kashf etish – organik kimyo sohasida ham muhim kashfiyotlar qildi.
+
+\n\n\t\t<b>Faradey va ilmiy faoliyati</b>
+\nFaradey 1831-yilda elektromagnit induksiyani kashf etganidan so‘ng, u elektr generator va transformatorlar yaratish g‘oyasini ilgari surdi. Uning ishlari zamonaviy elektr energetikasining rivojlanishiga katta hissa qo‘shdi. U qirollik ilmiy jamiyatining a’zosi bo‘lib, ilmiy ma’ruzalar o‘qigan va ommaviy fan targ‘ibotida faol ishtirok etgan.
+
+\n\n\t\t<b>Faradey hayotining so‘nggi yillari va vafoti</b>
+\nFaradey umrining so‘nggi yillarida ilmiy faoliyatdan chekinib, sokin hayot kechirdi. U 1867-yil 25-avgustda vafot etdi. Bugungi kunda uning ismi elektr induksiya qonuni va Faradey konstantasi bilan bog‘lanadi. Uning ilmiy ishlari zamonaviy texnologiyaning asosini tashkil etadi.
+
+\n\n\t\t<b>Xulosa</b>
+\nMaykl Faradey fizika va elektrotexnika sohasida beqiyos kashfiyotlar qilgan buyuk olimdir. Uning elektromagnit induksiya, elektr dvigatellar va elektr maydoni haqidagi ishlari bugungi zamonaviy texnologiyalarning poydevorini yaratgan. Faradey ilm-fanga bo‘lgan fidoiyligi bilan tarixda muhim o‘rin egallagan buyuk olimlardan biridir.
+</string>
+
+
+
+    <string name="textVolta">
+\t\t<b>Tug‘ilishi va bolalik yillari</b>
+\nAlessandro Volta 1745-yil 18-fevralda Italiyada, Komo shahrida tug‘ilgan. U yoshligida ilm-fanga katta qiziqish bildirgan va fizika hamda kimyo bo‘yicha chuqur bilim olishga harakat qilgan. Volta o‘zi mustaqil ravishda o‘qib, tajribalar o‘tkazgan va elektr hodisalarini chuqur o‘rganishga kirishgan.
+
+\n\n\t\t<b>Ilmiy faoliyatining boshlanishi</b>
+\n1769-yilda Volta elektrofizika sohasida tadqiqot olib borishni boshladi va qisqa vaqt ichida muhim natijalarga erishdi. 1775-yilda u elektrofizika bo‘yicha o‘zining birinchi muhim ixtirosi – elektrofors mashinasini yaratdi. Ushbu qurilma statik elektr hosil qilish uchun ishlatilgan va ilmiy tajribalarda qo‘llanilgan.
+
+\n\n\t\t<b>Voltaning ixtirolari va yutuqlari</b>
+\nAlessandro Volta elektr sohasida muhim kashfiyotlar qilgan:
+\n1. Volta ustuni (batareya) – 1800-yilda dunyodagi birinchi elektr batareyasini yaratdi, bu doimiy tok manbai sifatida xizmat qilgan.
+\n2. Elektromotiv kuch – elektr zaryadlarining harakatlanishini o‘rganib, elektr manbalarining ishlash prinsiplarini asoslab berdi.
+\n3. Metallar orasidagi potensial farq – turli metallar orasida elektr energiyasi hosil bo‘lishi mumkinligini aniqladi.
+\n4. Kimyoviy reaktsiyalarning elektr hosil qilishi – elektroximiyaning rivojlanishiga katta hissa qo‘shdi.
+
+\n\n\t\t<b>Voltaning ilmiy e’tirofi</b>
+\nVoltaning elektr sohasidagi ishlari katta e’tirofga sazovor bo‘ldi. Napoleon Bonapart Voltaning ishlariga katta qiziqish bildirgan va uni Parijga taklif qilgan. 1801-yilda Volta o‘z tajribalarini Parijda taqdim etdi va buning natijasida Frantsiya akademiyasi tomonidan mukofotlandi. 1810-yilda esa Napoleon uni Italiya Qirollik instituti professori etib tayinladi.
+
+\n\n\t\t<b>Voltaning hayotining so‘nggi yillari va vafoti</b>
+\nAlessandro Volta umrining so‘nggi yillarini ilmiy tadqiqotlardan uzoqda, tinch hayot kechirgan. U 1827-yil 5-martda vafot etdi.
+
+\n\n\t\t<b>Xotira va meros</b>
+\nBugungi kunda Alessandro Voltaning nomi butun dunyoda mashhur. Uning sharafiga elektr kuchlanish o‘lchov birligi "volt" deb nomlangan. Uning ixtirolari zamonaviy elektr energiyasi va elektrotexnika sohasining rivojlanishiga ulkan hissa qo‘shdi.
+</string>
+
+
+    <string name="textAmper">
+\t\t<b>Tug‘ilishi va bolalik yillari</b>
+\nAmper1775-yil 20-yanvarda Fransiyaning Lion shahri yaqinidagi Polmiye qishlog‘ida tug‘ilgan. U bolaligidan matematika va tabiiy fanlarga juda qiziqqan. Ampère mustaqil o‘qib, yoshligidan ilmiy kitoblarni o‘rganishga kirishgan.
+
+\n\n\t\t<b>Ta’limi va ilmiy faoliyatining boshlanishi</b>
+\nAmpère rasmiy universitet ta’limiga ega bo‘lmagan bo‘lsa-da, u o‘z bilimlarini chuqurlashtirib, matematik va fizik tadqiqotlar bilan shug‘ullangan. 1802-yilda Bourg shahrida o‘qituvchi bo‘lib ishlay boshlagan va tez orada Lyon universitetiga o‘tgan.
+
+\n\n\t\t<b>Amperning elektr va magnetizm sohasidagi ishlari</b>
+\nAmpère elektr va magnit maydonlar orasidagi o‘zaro ta’sirni chuqur o‘rgangan. Uning asosiy kashfiyotlari quyidagilardan iborat:
+\n1. **Amper qonuni** – tok o‘tkazuvchi simlarning o‘zaro magnit ta’sirini tushuntiruvchi muhim qonun.
+\n2. **Elektrodinamika** – Ampère elektr toklar orasidagi o‘zaro tortishish va itarilish kuchlarini o‘rganib, elektrodinamika asoslarini yaratdi.
+\n3. **Amper o‘lchov birligi** – elektr toki kuchini o‘lchash uchun ishlatiladigan “amper” birligi uning sharafiga nomlangan.
+\n4. **Solenoid va elektromagnit hodisalar** – u solenoid orqali magnit maydon hosil qilish mumkinligini tushuntirib berdi.
+
+\n\n\t\t<b>Amperning ilm-fanga qo‘shgan hissasi</b>
+\nAmpère elektr va magnetizm o‘rtasidagi bog‘liqlikni tushuntirgan birinchi olimlardan biri bo‘lib, u o‘z ishlari bilan Maksvell va Faradey kabi olimlarning keyingi tadqiqotlariga asos yaratgan.
+
+\n\n\t\t<b>Amperning hayotining so‘nggi yillari va vafoti</b>
+\nAmpère umrining oxirgi yillarida ilmiy tadqiqotlarini davom ettirdi. 1836-yil 10-iyunda u Marsel shahrida vafot etdi.
+
+\n\n\t\t<b>Xotira va meros</b>
+\nBugungi kunda André-Marie Ampère nomi elektr muhandisligi va fizika sohasida keng tanilgan. Uning sharafiga elektr toki kuchini o‘lchash birligi "amper (A)" deb nomlangan. Shuningdek, uning ilmiy ishlari elektromagnetizm rivojlanishining muhim bosqichi bo‘lib xizmat qilgan.
+</string>
+
+
+    <string name="textFulton">
+\t\t<b>Tug‘ilishi va bolalik yillari</b>
+\nRobert Fulton 1765-yil 14-noyabrda AQShning Pensilvaniya shtatida tug‘ilgan. U bolaligidan chizmachilik va mexanika sohalariga katta qiziqish bildirgan. Fulton yoshligida muhandislik va san’at bilan shug‘ullangan, lekin uning asosiy e’tibori texnika va mexanikaga qaratilgan edi.
+
+\n\n\t\t<b>Ta’limi va dastlabki ishlari</b>
+\nFulton rasmiy ilmiy ta’lim olmagan, ammo u mustaqil o‘qib, muhandislik va mexanikani chuqur o‘rgangan. 1786-yilda u san’at sohasida faoliyat yuritish uchun Angliyaga yo‘l oldi, ammo tez orada uning asosiy qiziqishi texnika va mexanika sohasiga o‘tdi.
+
+\n\n\t\t<b>Buxorli kemalar va Fultonning ixtirolari</b>
+\nFultonning eng muhim kashfiyoti buxorli kemalar edi. Uning asosiy ishlari quyidagilardan iborat:
+\n1. **Buxorli kema loyihasi** – 1807-yilda Fulton o‘zining **Clermont** nomli buxorli kemasini muvaffaqiyatli sinovdan o‘tkazdi. Bu dunyodagi birinchi amaliy foydalanishga mo‘ljallangan buxorli kema edi.
+\n2. **Suvosti kemasi** – Fulton 1800-yilda **Nautilus** nomli birinchi suvosti kemasini loyihaladi va yaratdi.
+\n3. **Kanallar va muhandislik ishlari** – u kanallar tizimini rivojlantirish ustida ham ishlagan va muhandislik sohasida turli loyihalarni ishlab chiqqan.
+\n4. **Harbiy kemalar** – Fulton harbiy flotta uchun ham samarali buxorli kemalarni ishlab chiqishga harakat qilgan.
+
+\n\n\t\t<b>Fultonning merosi va ahamiyati</b>
+\nRobert Fulton o‘zining ixtirolari bilan dengiz transporti rivojlanishiga katta hissa qo‘shgan. Uning buxorli kemasi suv transportida inqilob yaratdi va sanoat inqilobi davrida yuk va yo‘lovchilar tashish tizimini tubdan o‘zgartirdi.
+
+\n\n\t\t<b>Fultonning hayotining so‘nggi yillari va vafoti</b>
+\nRobert Fulton 1815-yil 24-fevralda Nyu-York shahrida vafot etdi. U o‘z davrining eng nufuzli ixtirochilaridan biri bo‘lib, bugungi kunda ham suv transporti tarixida muhim shaxs sifatida eslanadi.
+
+\n\n\t\t<b>Xulosa</b>
+\nRobert Fulton insoniyat tarixida muhim o‘rin tutuvchi muhandislardan biri bo‘lib, uning buxorli kemalari dunyo dengiz transportini o‘zgartirib yubordi. Uning ixtirolari bugungi kunda ham texnologiya va muhandislik sohalarida katta ahamiyatga ega.
+</string>
+
+
+    <string name="textGalilei">
+\t\t<b>Tug‘ilishi va bolalik yillari</b>
+\nGalileo Galilei 1564-yil 15-fevralda Italiyadagi Piza shahrida tug‘ilgan. Uning otasi Vinchentso Galilei musiqa nazariyachisi va bastakor bo‘lib, ilm-fan va san’atga katta qiziqish bildirgan. Galileining bolalikdan matematikaga va tabiiy fanlarga bo‘lgan qiziqishi kelajakdagi ilmiy faoliyatiga asos yaratgan.
+
+\n\n\t\t<b>Ta’limi va ilk ishlari</b>
+\nGalilei Piza universitetida tibbiyot yo‘nalishida tahsil ola boshlagan, ammo keyinchalik uning qiziqishi matematikaga o‘tib ketgan. U mexanika va astronomiya bo‘yicha chuqur izlanishlar olib bordi. 1589-yilda Piza universitetida professor bo‘ldi va erkin tushish qonuni bilan bog‘liq tadqiqotlar o‘tkazdi.
+
+\n\n\t\t<b>Galileining asosiy kashfiyotlari</b>
+\nGalilei ko‘plab ilmiy kashfiyotlar qilgan va fizikaga katta hissa qo‘shgan:
+\n1. **Teleskop orqali astronomik kuzatuvlar** – U Oy yuzasidagi tog‘lar, Yupiter yo‘ldoshlari, Quyosh dog‘lari va Veneraning fazalarini aniqlagan.
+\n2. **Erdan tashqari olam tushunchasi** – Galilei Kopernikning geliosentrik nazariyasini qo‘llab-quvvatlagan va bu borada ilmiy dalillar keltirgan.
+\n3. **Erkin tushish qonuni** – U jismlar massasi qancha bo‘lishidan qat’i nazar, bir xil tezlikda erkin tushishini tajribalar orqali isbotlagan.
+\n4. **Mexanika va inersiya tushunchasi** – Galilei birinchi bo‘lib inersiya qonunini ifodalagan, bu esa keyinchalik Nyutonning harakat qonunlariga asos bo‘lib xizmat qilgan.
+
+\n\n\t\t<b>Galileining qiyinchiliklari va inkvizitsiya bilan mojarosi</b>
+\nKatolik cherkovi Galileining geliosentrik nazariyani qo‘llab-quvvatlashini bid’at deb hisoblagan. 1633-yilda u inkvizitsiya sudiga chaqirildi va o‘z fikrlaridan voz kechishga majbur qilindi. U umrining oxirgi yillarini uy qamog‘ida o‘tkazdi.
+
+\n\n\t\t<b>Galileining hayotining so‘nggi yillari va vafoti</b>
+\nGalileo Galilei 1642-yil 8-yanvarda Florensiyada vafot etdi. U umrining so‘nggi yillarida ko‘rlikka uchragan bo‘lsa ham, ilmiy ishlari ustida ishlashni davom ettirgan.
+
+\n\n\t\t<b>Xulosa</b>
+\nGalileo Galilei zamonaviy ilm-fanning asoschilaridan biri bo‘lib, uning kashfiyotlari fizika va astronomiyaga ulkan ta’sir ko‘rsatgan. U o‘z davrida ko‘plab qarshiliklarga duch kelgan bo‘lsa-da, bugungi kunda ilmiy metodning asoschisi sifatida e’tirof etiladi.
+</string>
+
+
+    <string name="textJamesWatt">
+\t\t<b>Tug‘ilishi va bolalik yillari</b>
+\nJames Watt 1736-yil 19-yanvarda Shotlandiyaning Grinok shahrida tug‘ilgan. Uning otasi kemasoz va hunarmand bo‘lib, onasi esa uy bekasi edi. Watt bolaligidan mexanik qurilmalar va matematika bilan qiziqqan. Uning bu sohalarga bo‘lgan mehr-muhabbati kelajakda sanoat inqilobining muhim ixtirolaridan birini yaratishga turtki bergan.
+
+\n\n\t\t<b>Ta’limi va ilk ishlari</b>
+\nWatt boshlang‘ich ta’limni uyida olgan va keyinchalik Glazgoga borib, universitetda mexanik asboblar yasash bo‘yicha ishlagan. U Londonda qisqa muddat mashinasozlik bo‘yicha tajriba orttirgan. Glazgo universitetiga qaytgach, u yerda ilmiy asboblarni ta’mirlash bilan shug‘ullana boshladi.
+
+\n\n\t\t<b>James Wattning asosiy ixtirolari</b>
+\nJames Watt o‘z davrining eng muhim muhandislaridan biri hisoblanadi. Uning asosiy yutuqlari:
+\n1. **Bug‘ dvigateli** – Watt bug‘ dvigatelini takomillashtirib, undan samarali foydalanish imkoniyatini yaratgan. Uning ixtirosi sanoat inqilobiga katta turtki bergan.
+\n2. **Kondensatorli bug‘ mashinasi** – Watt mustaqil kondensator tizimini qo‘shib, bug‘ dvigatelining samaradorligini oshirgan va energiya sarfini kamaytirgan.
+\n3. **Aylanuvchi harakat tizimi** – U bug‘ mashinasining chiziqli harakatini aylanuvchi harakatga aylantirish usulini ishlab chiqqan, bu esa fabrikalar va transport vositalari uchun juda muhim bo‘lgan.
+\n4. **Ot kuchi birligi (horsepower)** – Watt ot kuchi birligini ishlab chiqqan, bu esa bugungi kunda ham turli dvigatellar quvvatini o‘lchashda qo‘llaniladi.
+\n5. **Bug‘ mashinasining sanoatda qo‘llanilishi** – Uning ixtirolari fabrikalar, konchilik va transport sohasida keng qo‘llanila boshlangan.
+
+\n\n\t\t<b>James Wattning ilmiy va sanoatga qo‘shgan hissasi</b>
+\nJames Watt sanoat inqilobining asoschilaridan biri bo‘lib, uning ixtirolari bug‘ mashinalarining samaradorligini oshirishga katta ta’sir ko‘rsatdi. Uning ishlari natijasida sanoat rivojlandi va ishlab chiqarish jarayonlari ancha tezlashdi.
+
+\n\n\t\t<b>Wattning hayotining so‘nggi yillari va vafoti</b>
+\nJames Watt 1819-yil 25-avgustda vafot etdi. Uning ilm-fanga qo‘shgan hissasi katta bo‘lgani uchun uning sharafiga quvvat birligi – **watt (W)** deb nomlangan.
+
+\n\n\t\t<b>Xulosa</b>
+\nJames Watt bug‘ dvigatelini takomillashtirish orqali sanoat inqilobining muhim qahramonlaridan biriga aylandi. Uning ixtirolari butun dunyo bo‘ylab sanoat, transport va texnologiya rivojlanishiga katta ta’sir ko‘rsatgan.
+</string>
+
+    <string name="textArticle1">\n\t\t<b>Nyutonning tortishish qonuni</b> \nIsaak Nyuton (1643–1727) tomonidan 1687-yilda Matematik prinsiplari (Philosophiæ Naturalis Principia Mathematica) asarida bayon qilingan tortishish qonuni shunday ifodalanadi: Har qanday ikkita jism bir-birini o‘z massalarining ko‘paytmasiga to‘g‘ri proporsional va ularning orasidagi masofaning kvadratiga teskari proporsional kuch bilan tortadi.
+       \n\n\t\t<b>Matematik ifodasi</b>
+\nTortishish kuchi quyidagi formula bilan hisoblanadi: \n<b>F = G*m1*m2/r^2</b>
+        \n <b>Bu Yerda:</b>
+        \n F — tortishish kuchi (N, Nyuton).
+        \n G — Gravitatsion doimiy: 6.67 * 10^-11 m^3 kg^-1 s^-2.
+        \n m1,m2 - ikki jism massalari (kg).
+        \n r — jism markazlari orasidagi masofa (m).
+        \n\n\t\t <b>Qonunning ahamiyati</b>
+        \n 1.Yer va Oy, Quyosh va sayyoralar harakatini tushuntiradi.
+        \n 2.Sun’iy yo‘ldoshlar orbitalarini hisoblashda qo‘llaniladi.
+        \n 3.Og‘irlik kuchini tushuntiradi: Yer har qanday jismlarni o‘z markaziga tortadi.
+        \n 4.Koinotdagi harakatlarni bashorat qilish imkonini beradi.
+        \n\n\t\t <b>Yer tortishish kuchi</b>
+        \n Agar jism Yer yuzasida joylashgan bo‘lsa, tortishish kuchi:
+        \n <b>F = m*g</b>
+        \n <b>Bu yerda:</b>
+        \n g — erkin tushish tezlanishi (~9.8 m/s^2).
+        \n m — jism massasi (kg).
+        \n\n\t\t <b>Muammolar va chegaralar</b>
+        \n Nisbiylik nazariyasi: Juda katta massalar yoki yuqori tezliklarda Nyuton qonuni to‘g‘ri natija bermaydi.
+        \n Kvarklar va kvant mexanikasi: Mikro dunyoda tortishish kuchi kuchsiz ishlaydi.
+        \n Shunga qaramay, Nyutonning tortishish qonuni hozirgacha kosmik mexanika va muhandislikda keng qo‘llaniladi.
+    </string>
+
+
+
+    <string name="textArticle2">
+\n\t\t<b>Elektromagnit induksiya</b>
+\nElektromagnit induksiya – o‘zgaruvchan magnit maydon ta’sirida o‘tkazgichda elektr yurituvchi kuch (EYuK) hosil bo‘lish hodisasi. Bu hodisa Maykl Faradey (1791–1867) tomonidan 1831-yilda kashf qilingan va zamonaviy elektrodinamikaning asosiy qonunlaridan biri hisoblanadi.
+
+\n\n\t\t<b>Matematik ifodasi</b>
+\nElektromagnit induksiya qonuni quyidagicha ifodalanadi: \n<b>ε = - dΦ/dt</b>
+\n<b>Bu yerda:</b>
+\n ε — induksiya EYuK (Volt).
+\n Φ — magnit oqim (Weber, Wb).
+\n t — vaqt (s).
+\n “-” ishora Lents qonuniga asoslanib, hosil bo‘lgan tok magnit maydon o‘zgarishiga qarshi yo‘nalishini bildiradi.
+
+\n\n\t\t<b>Qonunning ahamiyati</b>
+\n1. Elektr generatorlarining ishlash prinsipini tushuntiradi.
+\n2. Transformatorlar va induksion pechlarda qo‘llaniladi.
+\n3. Elektr dvigatellarining ishlashini tushuntiradi.
+\n4. Radioaloqa va elektromagnit to‘lqinlar nazariyasi asoslaridan biridir.
+
+\n\n\t\t<b>Magnit oqim o‘zgarishi va EYuK hosil bo‘lishi</b>
+\nAgar o‘tkazgich harakatlansa yoki magnit maydon o‘zgarsa, unda elektr yurituvchi kuch hosil bo‘ladi.
+\nMasalan, magnit maydon kuchlanganligi oshsa yoki pasaysa, konturda tok hosil bo‘ladi.
+
+\n\n\t\t<b>Lents qonuni</b>
+\nInduksiya toki har doim hosil bo‘lishiga sabab bo‘lgan magnit oqim o‘zgarishiga qarama-qarshi yo‘nalishda harakat qiladi.
+\nBu qoida energiyaning saqlanish qonuni bilan bog‘liq.
+
+\n\n\t\t<b>Elektromagnit induksiya va texnologiyalar</b>
+\n1. **Generatorlar** – Mexanik energiyani elektr energiyasiga aylantiradi.
+\n2. **Transformatorlar** – Kuchlanishni oshirish yoki pasaytirishda ishlatiladi.
+\n3. **Induksion pechlar** – Metall eritish va isitishda qo‘llaniladi.
+\n4. **Elektromagnit tormozlar** – Avtomobillar va poezdlar tormoz tizimida ishlatiladi.
+
+\n\n\t\t<b>Chegaralar va yangi tadqiqotlar</b>
+\nElektromagnit induksiya klassik elektrodinamika asosida tushuntirilsa-da, kvant mexanikasi va zamonaviy fizikada ham muhim o‘rin tutadi. Supero‘tkazgichlarda va kvant qurilmalarda elektromagnit induksiya samaradorligini oshirish bo‘yicha izlanishlar olib borilmoqda.
+</string>
+
+
+    <string name="textArticle3">
+\n\t\t<b>Maxvell tenglamalari</b>
+\nJeyms Klerk Maksvell (1831–1879) tomonidan ishlab chiqilgan Maxvell tenglamalari elektromagnit maydonning to‘rtta asosiy qonunini ifodalaydi. Bu tenglamalar elektr va magnit maydonlarning o‘zaro bog‘liqligini tushuntiradi hamda elektromagnit to‘lqinlarning mavjudligini bashorat qiladi.
+
+\n\n\t\t<b>Matematik ifodasi</b>
+\nMaxvell tenglamalari differensial va integral shaklda yozilishi mumkin.
+
+\n\n\t\t<b>1. Gauss qonuni (elektr maydoni uchun)</b>
+\nElektr zaryadlar elektr maydonni hosil qiladi:
+\n<b>∇ · E = ρ / ε₀</b>
+\n<b>Bu yerda:</b>
+\n E — elektr maydon kuchlanganligi (V/m).
+\n ρ — zaryad zichligi (C/m³).
+\n ε₀ — dielektrik doimiy (8.85 × 10⁻¹² F/m).
+
+\n\n\t\t<b>2. Gauss qonuni (magnit maydoni uchun)</b>
+\nMagnit maydon yopiq chiziqlarga ega, ya’ni magnit monopollarning yo‘qligini bildiradi:
+\n<b>∇ · B = 0</b>
+\n B — magnit induksiya vektori (T, Tesla).
+
+\n\n\t\t<b>3. Faradey induksiya qonuni</b>
+\nO‘zgaruvchan magnit maydon elektr maydonni hosil qiladi:
+\n<b>∇ × E = - dB/dt</b>
+
+\n\n\t\t<b>4. Ampere–Maxwell qonuni</b>
+\nElektr toki va o‘zgaruvchan elektr maydon magnit maydonni hosil qiladi:
+\n<b>∇ × B = μ₀ J + μ₀ ε₀ dE/dt</b>
+\n<b>Bu yerda:</b>
+\n μ₀ — magnit doimiyligi (4π × 10⁻⁷ H/m).
+\n J — tok zichligi (A/m²).
+
+\n\n\t\t<b>Maxvell tenglamalarining ahamiyati</b>
+\n1. Elektromagnit to‘lqinlarning mavjudligini tushuntiradi.
+\n2. Radioaloqa va optikada qo‘llaniladi.
+\n3. Optikada yorug‘lik elektromagnit to‘lqin ekanligini ko‘rsatadi.
+\n4. Elektr va magnit maydonlarining bir-biriga aylanish mexanizmini tushuntiradi.
+
+\n\n\t\t<b>Elektromagnit to‘lqinlar</b>
+\nMaxvell tenglamalaridan elektromagnit to‘lqinlar tenglamasi kelib chiqadi:
+\n<b>∇²E = μ₀ ε₀ d²E/dt²</b>, <b>∇²B = μ₀ ε₀ d²B/dt²</b>
+\nBu tenglamalar yorug‘lik tezligini quyidagicha ifodalaydi:
+\n<b>c = 1 / √(μ₀ ε₀) ≈ 3 × 10⁸ m/s</b>
+
+\n\n\t\t<b>Ilmiy va texnologik ahamiyati</b>
+\n1. **Radiosignal va telekommunikatsiya** – Radioto‘lqinlar va sun’iy yo‘ldosh texnologiyalarida qo‘llaniladi.
+\n2. **Optika va lazerlar** – Yorug‘likning elektromagnit tabiati asosida ishlaydi.
+\n3. **Elektr dvigatellar va generatorlar** – Elektromagnit maydon harakatining qo‘llanilishi.
+\n4. **MRI (magnit-rezonans tomografiya)** – Magnit maydon orqali inson tanasining ichki qismlarini ko‘rish.
+
+\n\n\t\t<b>Maxvell tenglamalari va zamonaviy fizika</b>
+\nMaxvell tenglamalari klassik elektrodinamikaning asosini tashkil etsa-da, kvant mexanikasi va nisbiylik nazariyasi bilan bog‘liq holda ham tadqiq qilinmoqda. Maxvell nazariyasi elektromagnit nurlanish, fotonlar va kvant dala nazariyasining rivojlanishiga sabab bo‘ldi.
+</string>
+
+
+
+
+    <string name="textArticle5">
+\n\t\t<b>Kvant mexanikasi</b>
+\nKvant mexanikasi – mikrodunyoni, ya’ni atom va undan kichik zarrachalarning xatti-harakatini o‘rganadigan zamonaviy fizikaning asosiy yo‘nalishlaridan biridir. Klassik mexanikadan farqli o‘laroq, kvant mexanikasi zarrachalarning diskret energiya holatlarida bo‘lishi va ehtimollik printsipiga asoslanadi.
+
+\n\n\t\t<b>1. Kvant mexanikasining asosiy tamoyillari</b>
+\n1. **Energiya kvantlanishi** – Zarracha energiyasi uzluksiz emas, balki diskret miqdorlarda bo‘ladi.
+\n2. **To‘lqin-zarracha dualizmi** – Zarralar (elektronlar, fotonlar) bir vaqtning o‘zida to‘lqin va zarraning xususiyatlarini namoyon qiladi.
+\n3. **Ehtimollik printsipi** – Kvant hodisalari aniq emas, balki ehtimoliy tarzda sodir bo‘ladi.
+\n4. **Geyzenbergning noaniqlik printsipi** – Zarraning tezligi va koordinatasini bir vaqtning o‘zida aniq bilish mumkin emas:
+\n<b>Δx * Δp ≥ ħ / 2</b>
+\nBu yerda <b>ħ ≈ 1.054 × 10⁻³⁴ J·s</b> – Plank doimiysi.
+
+\n\n\t\t<b>2. Asosiy tenglamalar</b>
+\n<b>Plank formulasi:</b>
+\n<b>E = hν</b>
+\nBu yerda <b>h</b> – Plank doimiysi (<b>6.626 × 10⁻³⁴ J·s</b>), <b>ν</b> – yorug‘lik chastotasi.
+
+\n<b>Shredinger tenglamasi:</b>
+\n<b>Ĥψ = Eψ</b>
+\nBu tenglama kvant sistemalarining holat funksiyasini tavsiflaydi.
+
+\n<b>De Broyl to‘lqin uzunligi:</b>
+\n<b>λ = h / p</b>
+\nBu yerda <b>p</b> – zarrachaning impulsi.
+
+\n\n\t\t<b>3. Kvant mexanikasining asosiy natijalari</b>
+\n1. **Elektron orbitallar** – Atomdagi elektronlar aniq orbitada emas, balki ehtimoliy mintaqalarda joylashgan.
+\n2. **Tunel effekt** – Zarralar klassik mexanika taqiqlagan to‘siqlar orqali o‘tishi mumkin.
+\n3. **Superpozitsiya** – Kvant tizimlari bir vaqtning o‘zida bir nechta holatda bo‘lishi mumkin.
+\n4. **O‘ralashuv (entanglement)** – Ikkita zarra bir-biri bilan bog‘liq bo‘lib, ularning biri o‘zgarganda ikkinchisi ham ta’sirlanadi.
+
+\n\n\t\t<b>4. Ilmiy va texnologik ahamiyati</b>
+\n1. **Lazerlar** – Kvant holatlarning stimul qilingan nurlanishi asosida ishlaydi.
+\n2. **Elektron mikroskoplar** – Kvant to‘lqin xususiyatlariga asoslanadi.
+\n3. **Yadro energetikasi** – Kvant mexanikasi yadro reaksiyalarini tushuntiradi.
+\n4. **Kvant kompyuterlar** – Superpozitsiya va o‘ralashuvdan foydalanib, an’anaviy kompyuterlardan ko‘ra tezroq hisob-kitob qiladi.
+
+\nKvant mexanikasi hozirgi texnologiya va fizika rivojida muhim rol o‘ynaydi.
+</string>
+
+
+
+    <string name="textArticle6">
+\n\n\t\t<b>Yadro fizikasi</b>
+\nYadro fizikasi atom yadrosining tuzilishi, xossalari va yadro reaktsiyalarini o‘rganadigan fizikaning bo‘limidir. Ushbu yo‘nalish yadro qurollari, yadro energetikasi, tibbiyot va kosmik tadqiqotlarda keng qo‘llaniladi.
+
+\n\n\t\t<b>1. Atom yadrosining tuzilishi</b>
+\nAtom yadrosi proton va neytronlardan iborat bo‘lib, bu zarrachalar nuklonlar deb ataladi. Proton musbat zaryadlangan, neytron esa zaryadsizdir.
+
+\n<b>Yadro xususiyatlari:</b>
+\n1. **Yadro massasi** – Yadrodagi proton va neytronlarning umumiy massasi.
+\n2. **Yadro radiusi** – Yakuniy formulaga ko‘ra:
+\n<b>R = R₀ * A^(1/3)</b>
+\nBu yerda <b>R₀ ≈ 1.2 × 10⁻¹⁵ m</b>, A – yadrodagi nuklonlar soni.
+\n3. **Tortishish kuchidan kuchliroq yadro kuchlari** – Nuklonlarni birga ushlab turadi.
+
+\n\n\t\t<b>2. Yadro reaktsiyalari</b>
+\nYadro fizikasi yadro reaktsiyalarini o‘rganadi. Eng asosiylari:
+
+\n<b>1. Radioaktiv parchalanish</b>
+\nBa’zi atom yadrolari o‘z-o‘zidan parchalanadi va energiya chiqaradi. Uch turi mavjud:
+\n- **Alfa parchalanish:** Yadro **α-zarracha** (He²⁺) chiqaradi.
+\n- **Beta parchalanish:** Neytron protonga aylanib, **β-zarracha** (elektron) chiqaradi.
+\n- **Gamma nurlanish:** Yadro ortiqcha energiyani **γ-kvant** shaklida chiqaradi.
+
+\n<b>2. Yadro bo‘linishi (fissiya)</b>
+\nOg‘ir yadrolar (masalan, **Uran-235**) neytron ta’sirida ikkiga bo‘linib, katta miqdorda energiya chiqaradi:
+\n<b>⁹²U²³⁵ + n → Kr + Ba + 3n + energiya</b>
+\nBu printsip atom elektr stansiyalarida ishlatiladi.
+
+\n<b>3. Yadro sintezi</b>
+\nIkki engil yadro qo‘shilib, og‘irroq yadroni hosil qiladi va katta energiya chiqaradi:
+\n<b>⁴H + ⁴H → He + energiya</b>
+\nQuyosh va yulduzlar energiyasi aynan shu jarayon natijasidir.
+
+\n\n\t\t<b>3. Yadro fizikasi qo‘llanilishi</b>
+\n1. **Yadro energetikasi** – Elektr energiyasi ishlab chiqarishda ishlatiladi.
+\n2. **Tibbiyot** – Radioterapiya, rentgen va MRT texnologiyalari.
+\n3. **San’at va tarix** – Radioaktiv izotoplar yordamida qadimiy yodgorliklarni yoshini aniqlash.
+\n4. **Kosmos tadqiqotlari** – Radioaktiv izotoplar kosmik qurilmalar uchun energiya manbai sifatida ishlatiladi.
+
+\nYadro fizikasi XXI asr ilm-fanining muhim yo‘nalishlaridan biri bo‘lib, insoniyat uchun katta imkoniyatlar yaratmoqda.
+</string>
+
+
+    <string name="textArticle7">
+\n\t\t<b>Supero‘tkazuvchanlik</b>
+\nSupero‘tkazuvchanlik – ba’zi materiallarning juda past haroratlarda elektr qarshiligini butunlay yo‘qotish hodisasidir. Bu holat ilk bor 1911-yilda gollandiyalik fizik Heike Kamerlingh Onnes tomonidan simobda -4.2 K (-268.95°C) da kashf qilingan.
+
+\n\n\t\t<b>1. Supero‘tkazuvchanlikning asosiy xususiyatlari</b>
+\n<b>1. Nolinchi elektr qarshilik</b> – Supero‘tkazuvchi moddada elektr toki hech qanday energiya yo‘qotmasdan oqadi.
+\n<b>2. Meissner effekti</b> – Supero‘tkazuvchilar magnit maydonni o‘z ichidan chiqarib tashlaydi, bu esa levitatsiya effektiga olib keladi.
+\n<b>3. Kritik harorat (Tc)</b> – Moddaning supero‘tkazuvchi holatga o‘tish harorati. Har bir material uchun u farqli bo‘ladi.
+
+\n\n\t\t<b>2. Supero‘tkazuvchanlikning nazariy tushuntirishi</b>
+\n1957-yilda **BCS nazariyasi** (Bardeen, Cooper, Schrieffer) supero‘tkazuvchanlik hodisasini tushuntirdi. Unga ko‘ra:
+\n- Elektronlar fononlar yordamida juftlashib, **Cooper juftligi** hosil qiladi.
+\n- Bu juftliklar kvant holatda harakat qilib, qarshilikka uchramaydi.
+
+\n\n\t\t<b>3. Supero‘tkazuvchanlikning qo‘llanilishi</b>
+\n1. **Magnit levitatsiya (Maglev) poyezdlari** – Havoda harakatlanadigan yuqori tezlikdagi poyezdlar.
+\n2. **Tibbiyot (MRI skanerlari)** – Kuchli magnit maydon yaratish uchun ishlatiladi.
+\n3. **Elektr energiyasini yo‘qotishsiz uzatish** – Supero‘tkazuvchi simlar elektr tarmoqlarida qo‘llanilishi mumkin.
+\n4. **Kvant kompyuterlar** – Supero‘tkazuvchi kvant bitlari (qubitlar) yordamida hisoblash tezligini oshirish.
+\n5. **Hissiyotkor detektorlar** – Juda past haroratda ishlovchi nozik o‘lchov uskunalarida qo‘llaniladi.
+
+\nSupero‘tkazuvchanlik kelajak texnologiyalarida katta ahamiyatga ega bo‘lib, yuqori haroratli supero‘tkazuvchilar ustida tadqiqotlar davom etmoqda.
+</string>
+
+
+    <string name="textArticle8">
+\n\t\t<b>Lazer texnologiyasi</b>
+\nLazer – bu kuchli, yo‘naltirilgan va koherent yorug‘lik nurlanishini hosil qiluvchi qurilma. “Lazer” so‘zi **Light Amplification by Stimulated Emission of Radiation** (Nurlanishning rag‘batlantirilgan emissiyasi orqali yorug‘likni kuchaytirish) iborasining qisqartmasidir.
+
+\n\n\t\t<b>1. Lazer qanday ishlaydi?</b>
+\nLazer ishlash prinsipi **Albert Eynshteyn** tomonidan 1917-yilda tavsiya qilingan **stimullangan nurlanish** g‘oyasiga asoslanadi:
+\n- Atomlar yoki molekulalar tashqi energiya ta’sirida uyg‘ongan holatga o‘tadi.
+\n- Uyg‘ongan zarrachalar foton chiqaradi va bu fotonlar bir-birini rag‘batlantiradi.
+\n- Hosil bo‘lgan yorug‘lik koherent (faza jihatdan uyg‘un) va parallel bo‘lib chiqadi.
+
+\n\n\t\t<b>2. Lazerning asosiy xususiyatlari</b>
+\n<b>1. Koherentlik</b> – Lazer nurlari bir xil fazada tarqaladi.
+\n<b>2. Monoxromatiklik</b> – Yorug‘lik bitta to‘lqin uzunligiga ega bo‘ladi.
+\n<b>3. Yo‘naltirilganlik</b> – Lazer nurlari parallel holda uzoq masofagacha tarqaladi.
+
+\n\n\t\t<b>3. Lazer turlari</b>
+\n- **Qattiq jismli lazerlar** – Rubiy, neodimiy lazerlari.
+\n- **Gaz lazerlari** – Geliy-neon, karbonat angidrid (CO2) lazerlari.
+\n- **Suyuqlik lazerlari** – Organik bo‘yoq lazerlari.
+\n- **Yarimo‘tkazgichli lazerlar** – LED va diod lazerlar.
+
+\n\n\t\t<b>4. Lazer texnologiyasining qo‘llanilishi</b>
+\n1. **Tibbiyot** – Lazer jarrohlik amaliyotlarida, ko‘z operatsiyalarida va dermatologiyada ishlatiladi.
+\n2. **Telekommunikatsiya** – Optik tolali aloqa tizimlarida lazer signallarni uzatadi.
+\n3. **Sanoat** – Metall kesish, payvandlash va 3D bosib chiqarishda qo‘llaniladi.
+\n4. **Harbiy texnologiyalar** – Lazer qurollari, nishonga olish tizimlari va radarlar.
+\n5. **Ilm-fan va tadqiqot** – Spektroskopiya va kvant optikasi sohalarida muhim ahamiyatga ega.
+
+\nLazer texnologiyasi turli sohalarda inqilobiy o‘zgarishlar keltirib chiqarmoqda va kelajakda undan yanada samarali foydalanish imkoniyatlari kengaymoqda.
+</string>
+
+
+
+
+    <string name="textArticle4">
+    \n\t\t <b>Nisbiylik nazariyasi</b>
+    \nNisbiylik nazariyasi Albert Eynshteyn tomonidan ishlab chiqilgan bo‘lib, u zamonaviy fizikaning eng asosiy tamoyillaridan biridir. Ushbu nazariya vaqt, fazo va tortishish tushunchalarini qayta ko‘rib chiqib, klassik Nyuton mexanikasidan farqli natijalarga olib keladi.
+
+    \n<b>Nisbiylik nazariyasi ikkita asosiy qismga bo‘linadi:</b>
+    \n1.<b>Maxsus nisbiylik nazariyasi (1905)</b>
+    \n2.<b>Umumiy nisbiylik nazariyasi (1915)</b>
+
+    \n<b>Umumiy nisbiylik nazariyasi</b>
+    \n1915-yilda Albert Eynshteyn tortishish hodisasini tushuntirish uchun umumiy nisbiylik nazariyasini ishlab chiqdi. Bu nazariya Nyutonning tortishish nazariyasini to‘ldirib, tortishishning fazo-vaqt egilishini hosil qilishini tushuntiradi.
+
+    \n<b>Asosiy tamoyillar:</b>
+    \n1. <b>Ekvivalentlik printsipi</b> - tortishish kuchi va tezlanish bir xil ta’sir ko‘rsatadi.
+    \n2. <b>Fazo-vaqt egriligi</b> - katta massali jismlar atrofidagi fazo-vaqt egiladi.
+
+    \n<b>Eksperimental tasdiqlar:</b>
+    \n- 1919-yilda Artur Eddington tomonidan Quyosh atrofidagi yorug‘likning egilishi kuzatildi.
+    \n- Gravitatsion qizil siljish va vaqtning tortishish ta’sirida sekinlashishi eksperimental ravishda tasdiqlandi.
+    \n- 2015-yilda LIGO observatoriyasi tomonidan gravitatsion to‘lqinlar aniqlangan.
+
+    \n<b>Nisbiylik nazariyasining ahamiyati</b>
+    \nNisbiylik nazariyasi zamonaviy fizika va texnologiyada katta ahamiyatga ega. U orqali GPS tizimi, yadro energetikasi, qora tuynuklar va koinot kengayishi kabi hodisalar tushuntiriladi.
+</string>
+
+
 </resources>
