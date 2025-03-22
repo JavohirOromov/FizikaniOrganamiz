@@ -12,6 +12,7 @@ class MainViewModelImpl(private val repository: AppRepository): ViewModel(), Mai
     override val openDetailScreenLiveDate = MutableLiveData<Int>()
     override val openArticleDetailScreen = MutableLiveData<Int>()
     override val openInfoScreenLiveData = MutableLiveData<Unit>()
+    override val showEmptyAnimation = MutableLiveData<Boolean>()
 
 
     override fun loadSelections() {
@@ -28,5 +29,9 @@ class MainViewModelImpl(private val repository: AppRepository): ViewModel(), Mai
 
     override fun openInfoScreen() {
         openInfoScreenLiveData.value = Unit
+    }
+
+    override fun showEmptyAnimation(isEmpty: Boolean) {
+        showEmptyAnimation.value = isEmpty
     }
 }

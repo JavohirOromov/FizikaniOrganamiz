@@ -2,7 +2,6 @@ import android.os.Bundle
 import android.os.CountDownTimer
 import android.view.View
 import androidx.fragment.app.Fragment
-import androidx.navigation.NavOptions
 import androidx.navigation.fragment.findNavController
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.example.fizikaniorganamiz.R
@@ -15,20 +14,24 @@ import com.example.fizikaniorganamiz.databinding.FragmentSplashBinding
  */
 class SplashFragment: Fragment(R.layout.fragment_splash) {
     private val binding: FragmentSplashBinding by viewBinding(FragmentSplashBinding::bind)
-
+    private var storage: LocalStorage? = null
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        storage = LocalStorage.getInstance()
+
         binding.lottie.playAnimation()
 
         object: CountDownTimer(1500, 100){
             override fun onTick(millisUntilFinished: Long) {}
 
             override fun onFinish() {
-                NavOptions.Builder()
-                    .setPopUpTo(R.id.splashFragment,true)
-                    .build()
-                findNavController().navigate(R.id.action_splashFragment_to_pagerFragment)
+
+                if (storage?.getFirst() == true){
+                    findNavController().navigate(R.id.action_splashFragment_to_pagerFragment)
+                }else{
+                    findNavController().navigate(R.id.action_splashFragment_to_mainFragment)
+                }
             }
         }.start()
     }

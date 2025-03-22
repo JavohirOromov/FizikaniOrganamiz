@@ -13,6 +13,7 @@ import androidx.fragment.app.viewModels
 import androidx.lifecycle.Observer
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.viewpager2.widget.ViewPager2.OnPageChangeCallback
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.example.fizikaniorganamiz.R
 import com.example.fizikaniorganamiz.databinding.FragmentMainBinding
@@ -40,6 +41,7 @@ class MainFragment : Fragment(R.layout.fragment_main) {
         initAdapter()
         addClickEvents()
         viewModel.itemsLiveData.observe(viewLifecycleOwner, selectionObserver)
+        viewModel.showEmptyAnimation.observe(viewLifecycleOwner,showEmptyAnimationObserver)
     }
     private fun initAdapter(){
         viewModel.loadSelections()
@@ -55,6 +57,9 @@ class MainFragment : Fragment(R.layout.fragment_main) {
         }
         binding.info.setOnClickListener {
             viewModel.openInfoScreen()
+        }
+        adapter.setEmptyStateClickListener {
+            viewModel.showEmptyAnimation(it)
         }
     }
     private val selectionObserver = Observer<List<SelectionData>>{
@@ -72,5 +77,12 @@ class MainFragment : Fragment(R.layout.fragment_main) {
     private val openInfoScreenObserver = Observer<Unit>{
         val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://t.me/Javohir_Oromov"))
         startActivity(intent)
+    }
+    private val showEmptyAnimationObserver = Observer<Boolean>{ isEmpty ->
+        if (isEmpty){
+            binding.empty.visibility = View.VISIBLE
+        }else{
+            binding.empty.visibility = View.GONE
+        }
     }
 }

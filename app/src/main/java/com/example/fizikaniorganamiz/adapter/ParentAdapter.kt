@@ -18,14 +18,17 @@ class ParentAdapter: ListAdapter<SelectionData,ParentAdapter.ParentVH>(ParentDU)
 
     private var inventorItemClickListener: ((Int) -> Unit)? = null
     private var articleItemClickListener: ((Int) -> Unit)? = null
-
+    private var emptyStateClickListener: ((Boolean) -> Unit)? = null
+    private var binding2_2: ArticleRvBinding? = null
     fun setInventorItemClickListener(listener: (Int) -> Unit){
         this.inventorItemClickListener = listener
     }
     fun setArticleItemClickListener(listener: (Int) -> Unit){
         this.articleItemClickListener = listener
     }
-
+    fun setEmptyStateClickListener(listener: (Boolean) -> Unit){
+        this.emptyStateClickListener = listener
+    }
    abstract inner class ParentVH(view: View): RecyclerView.ViewHolder(view){
        abstract fun bind(items: List<DataRv>)
    }
@@ -44,11 +47,11 @@ class ParentAdapter: ListAdapter<SelectionData,ParentAdapter.ParentVH>(ParentDU)
 
             binding1.search.setIconifiedByDefault(false)
             binding1.search.queryHint = "Qidiruv..."
+
             (binding1.search as? SearchView)?.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
                 override fun onQueryTextSubmit(query: String?): Boolean {
                     return false
                 }
-
                 override fun onQueryTextChange(newText: String?): Boolean {
                     filterList(newText ?: "")
                     return true
@@ -63,6 +66,15 @@ class ParentAdapter: ListAdapter<SelectionData,ParentAdapter.ParentVH>(ParentDU)
                 inventorList.filter { it.name.contains(query, ignoreCase = true) }
             }
             (binding1.inventorList.adapter as? InventorAdapter)?.submitList(filteredList)
+            if (filteredList.isEmpty()){
+                binding1.inventorList.visibility = View.GONE
+                binding2_2?.article?.visibility = View.GONE
+                emptyStateClickListener?.invoke(filteredList.isEmpty())
+            }else{
+                binding1.inventorList.visibility = View.VISIBLE
+                binding2_2?.article?.visibility = View.VISIBLE
+                emptyStateClickListener?.invoke(filteredList.isEmpty())
+            }
         }
     }
 
@@ -71,7 +83,6 @@ class ParentAdapter: ListAdapter<SelectionData,ParentAdapter.ParentVH>(ParentDU)
             val adapter = ArticleAdapter()
             binding2.articleList.adapter = adapter
             adapter.submitList(items.filterIsInstance<ArticleData>())
-
             adapter.setItemClickListener {
                 articleItemClickListener?.invoke(it)
             }
@@ -97,6 +108,7 @@ class ParentAdapter: ListAdapter<SelectionData,ParentAdapter.ParentVH>(ParentDU)
             }
             else -> {
                 val binding2 = ArticleRvBinding.inflate(LayoutInflater.from(parent.context), parent, false)
+                binding2_2 = binding2
                 ArticleVH(binding2)
             }
         }
@@ -113,7 +125,7 @@ class ParentAdapter: ListAdapter<SelectionData,ParentAdapter.ParentVH>(ParentDU)
             fullList
         } else {
             fullList.map { parentItem ->
-                if (parentItem.type == 1) { // Faqat InventorData uchun filter
+                if (parentItem.type == 1) {
                     val filteredInventors = parentItem.items.filter {
                         it is InventorData && it.name.contains(query, ignoreCase = true)
                     }

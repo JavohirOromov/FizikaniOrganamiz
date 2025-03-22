@@ -1,4 +1,5 @@
 package com.example.fizikaniorganamiz.app
+import LocalStorage
 import android.app.Application
 /**
  * Creator: Javohir Oromov
@@ -10,5 +11,6 @@ class App: Application(){
     override fun onCreate() {
         super.onCreate()
         AppRepository.init()
+        LocalStorage.init(this)
     }
 }

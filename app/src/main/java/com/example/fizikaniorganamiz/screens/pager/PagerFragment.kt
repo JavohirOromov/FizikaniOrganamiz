@@ -1,4 +1,5 @@
 package com.example.fizikaniorganamiz.screens.pager
+import LocalStorage
 import PagerAdapter
 import android.os.Bundle
 import android.view.View
@@ -19,8 +20,10 @@ import com.google.android.material.tabs.TabLayout.ViewPagerOnTabSelectedListener
 class PagerFragment: Fragment(R.layout.fragment_pager) {
 
     private val binding: FragmentPagerBinding by viewBinding(FragmentPagerBinding::bind)
+    private var storage: LocalStorage? = null
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        storage = LocalStorage.getInstance()
 
         binding.pager.adapter = PagerAdapter(requireActivity())
         binding.springDots.attachTo(binding.pager)
@@ -37,7 +40,6 @@ class PagerFragment: Fragment(R.layout.fragment_pager) {
         binding.pager.registerOnPageChangeCallback(object: ViewPager2.OnPageChangeCallback(){
             override fun onPageSelected(position: Int) {
                 super.onPageSelected(position)
-
                 binding.next.text = if (position == 2) "Davom etish" else "Keyingi"
                 binding.liner.isGone = position == 0
                 binding.next1.isGone = position != 0
@@ -45,6 +47,7 @@ class PagerFragment: Fragment(R.layout.fragment_pager) {
                     if (binding.pager.currentItem < 2) {
                         binding.pager.currentItem += 1
                     } else {
+                        storage?.saveFirst(false)
                         findNavController().navigate(R.id.action_pagerFragment_to_mainFragment)
                     }
                 }

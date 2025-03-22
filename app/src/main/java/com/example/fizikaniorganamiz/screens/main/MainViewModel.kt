@@ -10,9 +10,11 @@ interface MainViewModel {
     val openDetailScreenLiveDate: LiveData<Int>
     val openArticleDetailScreen: LiveData<Int>
     val openInfoScreenLiveData: LiveData<Unit>
+    val showEmptyAnimation: LiveData<Boolean>
 
     fun loadSelections()
     fun openDetailScreen(position: Int)
     fun openArticleDetailScreen(position: Int)
     fun openInfoScreen()
+    fun showEmptyAnimation(isEmpty: Boolean)
 }
