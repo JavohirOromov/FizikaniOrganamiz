@@ -19,10 +19,12 @@ Mening Fizikani O'rganamiz dasturim
 - MVVM arxitekturni pattern
 
 ## 📸 Skrinshot
+https://drive.google.com/file/d/1DdPUl2ojFilUbgMOHZQ7TU7FCe34faFS/view?usp=sharing
 <p float="left">
    <img src="https://drive.google.com/uc?export=view&id=1vJcKOJ3RiBNFDWXPgTN_E41Uhyj-IjMO" width="10%" />
+     <img src="https://drive.google.com/uc?export=view&id=1DdPUl2ojFilUbgMOHZQ7TU7FCe34faFS" width="10%" />
    <img src="https://drive.google.com/uc?export=view&id=1d3Dl9B5Rn9LyTtDjdzIgN8RlGKVw_8xJ" width="10%" />
-  <img src="https://drive.google.com/uc?export=view&id=19Cc2jIw5lplHuBv2JfRcPii4GKMMRDLt" width="10%" />
+     <img src="https://drive.google.com/uc?export=view&id=19Cc2jIw5lplHuBv2JfRcPii4GKMMRDLt" width="10%" />
    <img src="https://drive.google.com/uc?export=view&id=1b1Ee5IN8HuRuuXsQAk3uf3cmVHA762zy" width="10%" />
   <img src="https://drive.google.com/uc?export=view&id=13wxhiAu3kSxofxSHJq-4eZUozFScijop" width="10%" />
   <img src="https://drive.google.com/uc?export=view&id=1nUCt2MBMBN-hAgRiAwzID9kNpvUex_OI" width="10%" />
