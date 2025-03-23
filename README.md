@@ -19,7 +19,6 @@ Mening Fizikani O'rganamiz dasturim
 - MVVM arxitekturni pattern
 
 ## 📸 Skrinshot
-https://drive.google.com/file/d/1b1Ee5IN8HuRuuXsQAk3uf3cmVHA762zy/view?usp=sharing
 <p float="left">
    <img src="https://drive.google.com/uc?export=view&id=1vJcKOJ3RiBNFDWXPgTN_E41Uhyj-IjMO" width="10%" />
    <img src="https://drive.google.com/uc?export=view&id=1d3Dl9B5Rn9LyTtDjdzIgN8RlGKVw_8xJ" width="10%" />
