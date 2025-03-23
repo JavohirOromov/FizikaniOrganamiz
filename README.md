@@ -26,6 +26,9 @@ Mening Fizikani O'rganamiz dasturim
    <img src="https://drive.google.com/uc?export=view&id=1b1Ee5IN8HuRuuXsQAk3uf3cmVHA762zy" width="10%" />
      <img src="https://drive.google.com/uc?export=view&id=120_BVk2jPBKcpxqDpl0tz0m8aLzzV32u" width="10%" />
     <img src="https://drive.google.com/uc?export=view&id=1kDzLML3xGPVXrsmj8EENSdgxgtqJ5jDN" width="10%" />
+
+      <img src="https://drive.google.com/uc?export=view&id=14MVcf9wnqu5dZjgxgyc_3umowd2GwX5O" width="10%" />
+      
     <img src="https://drive.google.com/uc?export=view&id=1nUCt2MBMBN-hAgRiAwzID9kNpvUex_OI" width="10%" />
     <img src="https://drive.google.com/uc?export=view&id=19Cc2jIw5lplHuBv2JfRcPii4GKMMRDLt" width="10%" />
   <img src="https://drive.google.com/uc?export=view&id=13wxhiAu3kSxofxSHJq-4eZUozFScijop" width="10%" />
