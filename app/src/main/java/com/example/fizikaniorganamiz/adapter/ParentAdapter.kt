@@ -1,13 +1,16 @@
 import android.annotation.SuppressLint
+import android.graphics.Color
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.EditText
 import androidx.appcompat.widget.SearchView
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.example.fizikaniorganamiz.databinding.ArticleRvBinding
 import com.example.fizikaniorganamiz.databinding.InventorRvBinding
+
 /**
  * Creator: Javohir Oromov
  * Project: Fizikani O'rganamiz
@@ -38,16 +41,16 @@ class ParentAdapter: ListAdapter<SelectionData,ParentAdapter.ParentVH>(ParentDU)
         override fun bind(items: List<DataRv>) {
             val adapter = InventorAdapter()
             binding1.inventorList.adapter = adapter
-            inventorList = items.filterIsInstance<InventorData>() // Faqat InventorData olish
+            inventorList = items.filterIsInstance<InventorData>()
             adapter.submitList(inventorList)
 
             adapter.setItemClickListener {
                 inventorItemClickListener?.invoke(it)
             }
-
+            val searchEditText = binding1.search.findViewById<EditText>(androidx.appcompat.R.id.search_src_text)
+            searchEditText.setTextColor(Color.BLACK)
             binding1.search.setIconifiedByDefault(false)
             binding1.search.queryHint = "Qidiruv..."
-
             (binding1.search as? SearchView)?.setOnQueryTextListener(object : SearchView.OnQueryTextListener {
                 override fun onQueryTextSubmit(query: String?): Boolean {
                     return false

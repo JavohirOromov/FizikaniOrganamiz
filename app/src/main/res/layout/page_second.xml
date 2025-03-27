@@ -44,6 +44,7 @@
         android:fontFamily="@font/font2"
         android:textAlignment="center"
         app:layout_constraintVertical_bias="0.35"
+        android:textColor="#3F3A43"
         />
 
 
@@ -58,6 +59,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintVertical_bias="0.06"
         android:paddingHorizontal="18dp"
+        android:textColor="#3F3A43"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

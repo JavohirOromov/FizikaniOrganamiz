@@ -52,7 +52,6 @@
         android:visibility="gone"
         />
 
-
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/listItem"
         android:layout_width="0dp"
@@ -65,6 +64,4 @@
         android:layout_marginBottom="36dp"
         >
     </androidx.recyclerview.widget.RecyclerView>
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>

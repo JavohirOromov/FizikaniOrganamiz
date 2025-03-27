@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="search_text">#000000</color> <!-- Har doim qora matn -->
+    <color name="search_hint">#888888</color> <!-- Hint kul rang -->
+    <color name="search_background">#E0E0E0</color> <!-- Yorqin kul rang fon -->
+    <color name="search_icon">#000000</color> <!-- Qidiruv ikonasi qora -->
+
+
+
 </resources>

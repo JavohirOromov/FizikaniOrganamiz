@@ -1,3 +1,5 @@
+package com.example.fizikaniorganamiz.screens
+import LocalStorage
 import android.os.Bundle
 import android.os.CountDownTimer
 import android.view.View
@@ -28,9 +30,9 @@ class SplashFragment: Fragment(R.layout.fragment_splash) {
             override fun onFinish() {
 
                 if (storage?.getFirst() == true){
-                    findNavController().navigate(R.id.action_splashFragment_to_pagerFragment)
+                    findNavController().navigate(SplashFragmentDirections.actionSplashFragmentToPagerFragment())
                 }else{
-                    findNavController().navigate(R.id.action_splashFragment_to_mainFragment)
+                    findNavController().navigate(SplashFragmentDirections.actionSplashFragmentToMainFragment())
                 }
             }
         }.start()

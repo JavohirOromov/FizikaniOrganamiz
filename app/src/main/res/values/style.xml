@@ -4,4 +4,5 @@
         <item name="android:statusBarColor">#BC1313</item>
         <item name="android:windowLightStatusBar">false</item>
     </style>
+
 </resources>
