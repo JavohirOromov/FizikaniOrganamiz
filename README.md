@@ -35,7 +35,7 @@ Mening Fizikani O'rganamiz dasturim
 </p>
 
 ## 📹 Demo
-<video src="https://github.com/JavohirOromov/FizikaniOrganamiz/raw/main/demo_video.mp4" width="600" autoplay loop muted playsinline></video>
+<video src="https://github.com/user-attachments/assets/dc154beb-8169-4950-9918-9b5b504fde2f" width="600" controls></video>
 
 ## ⚙️ O'rnatish va ishga tushirish
 
